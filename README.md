@@ -1,6 +1,8 @@
 # QueerAus Governance
 Governance documents for the QueerAus Mastodon server.
 
+## NOTHING HERE SHOULD BE CONSIDERED "IN EFFECT" UNTIL STATED ON https://aus.lgbt/about !!!
+
 ## Documents and Policies
 - [Privacy Policy](https://privacy.pks.ai)
 - [Code of Conduct](/code-of-conduct)
