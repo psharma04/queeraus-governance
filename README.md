@@ -23,7 +23,7 @@ Governance documents for the QueerAus Mastodon server.
   </tr>
   <tr>
     <td>Pepsi</td>
-    <td><a href="https://aus.lgbt/@pepsi">[@pepsi@aus.lgbt](https://aus.lgbt/@pepsi)</a></td>
+    <td><a href="https://aus.lgbt/@pepsi">@pepsi@aus.lgbt</a></td>
     <td><a href="mailto:&#109;&#x61;&#115;&#x74;&#x6f;&#x64;&#x6f;&#110;&#x40;&#112;&#x6b;&#x73;&#46;&#x61;&#105;">mastodon@pks.ai</a></td>
     <td>Server Owner, Grievance Officer</td>
     <td>17/11/2022</td>
