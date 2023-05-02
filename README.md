@@ -3,8 +3,8 @@ Governance documents for the QueerAus Mastodon server.
 
 ## Documents and Policies
 - [Privacy Policy](https://privacy.pks.ai)
-- [Code of Conduct](/CODE_OF_CONDUCT)
-- [Grievance Policy](/GRIEVANCE_POLICY)
+- [Code of Conduct](/code-of-conduct)
+- [Grievance Policy](/grievance-policy)
 #### TODO
 - Constitution
 - Moderation Policy
