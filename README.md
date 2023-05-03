@@ -12,6 +12,7 @@ Governance documents for the QueerAus Mastodon server.
 - Moderation Policy
 - Terms of Service
 
+## QueerAus Governance Structure
 ![QueerAus Governance Structure](/governance-structure.svg)
 
 ## Current Staff Members
